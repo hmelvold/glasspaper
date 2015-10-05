@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+some content by vidar
+...litt modding her...
+=======
 some content by vidar, but anders changed the content slightly
+>>>>>>> 7de6ee2ee09f6394f705c7c970d2f53f0b78bd0c
